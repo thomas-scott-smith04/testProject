@@ -7,6 +7,6 @@ using namespace std;
 // October 27, 2024
 
 int main() {
-    cout << "Hello World!";
+    cout << "Hello, Universe!";
     return 0;
 }
